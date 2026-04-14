@@ -1,1 +1,3 @@
-
+- 📖 Lectures
+- 🧪 Tutorials
+- 📝 Assessments
